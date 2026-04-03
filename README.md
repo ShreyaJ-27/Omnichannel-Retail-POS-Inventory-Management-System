@@ -218,7 +218,7 @@ Admin can create and delete users with roles.
 
 ## 👨‍💻 Author
 
-Your Name
+Mudavath Anil Kumar
 MCA Student - MANIT Bhopal
 
 ---
