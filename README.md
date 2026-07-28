@@ -95,7 +95,7 @@ Notes:
 - admin-dashboard/src/services/api.js — admin API client
 
 ## License
-Add a LICENSE file to clarify terms. If you want a permissive license, consider MIT.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## Contact
 Created by ShreyaJ-27. For questions or collaboration, open an issue or pull request in this repository.
